@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 
 ![snake gif](https://github.com/Deeshannn/Deeshannn/blob/output/github-snake-dark.svg)
 <!--
