@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 ## Introduction
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Deeshannn/github-stats-terminal-style/main/github_stats.svg" />
+<p align="center" >
+    <a href="https://github.com/Deeshannn/github-stats-terminal-style">
+        <img width="450px" src="https://cdn.jsdelivr.net/gh/Deeshannn/github-stats-terminal-style@latest/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
+    </a>
 </p>
