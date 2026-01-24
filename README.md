@@ -1,5 +1,3 @@
-
-![snake gif](https://github.com/Deeshannn/Deeshannn/blob/output/github-snake-dark.svg)
 <!--
 **Deeshannn/Deeshannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,10 +14,28 @@ Here are some ideas to get you started:
 -->
 
 
+
+
 ## Introduction
+
+
+## 👋 Hi, I'm Deeshan
+
+I'm a **3rd year Computer Engineering undergraduate** at the **University of Peradeniya**.  
+I’m interested in **software development, computer networks, and systems programming**, and I enjoy building practical projects while learning new technologies.
+
+
+
 
 <p align="center" >
     <a href="https://github.com/Deeshannn/github-stats-terminal-style">
         <img width="450px" src="https://cdn.jsdelivr.net/gh/Deeshannn/github-stats-terminal-style@latest/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
     </a>
 </p>
+
+
+
+
+![snake gif](https://github.com/Deeshannn/Deeshannn/blob/output/github-snake-dark.svg)
+
+
